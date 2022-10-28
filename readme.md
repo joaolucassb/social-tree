@@ -1,8 +1,7 @@
 <h1 align="center">Projeto Social Tree</h1>
 
-<hr>
 <p align="center">
-    <img scr="/assets/social-tree.png" alt="Projeto" hight="100%" width="100%">
+    <img alt="Projeto" scr=".github/social-tree.png"  width="100%">
 </p>
 <hr> 
 
