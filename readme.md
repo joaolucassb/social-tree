@@ -2,7 +2,7 @@
 
 <hr>
 <p align="center">
-    <img scr="/assets/social-tree.png" width="100%">
+    <img scr="/assets/social-tree.png" alt="Projeto" hight="100%" width="100%">
 </p>
 <hr> 
 
